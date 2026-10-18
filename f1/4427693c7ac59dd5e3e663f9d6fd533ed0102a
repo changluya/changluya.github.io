@@ -1,0 +1,20 @@
+404.html
+  h_415c008e101ba5 1-18
+AgentForge/index.html
+  h_415c008e101ba5 1-13
+README.md
+  h_415c008e101ba5 1-8
+index.html
+  h_415c008e101ba5 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f14427693c7ac59dd5e3e663f9d6fd533ed0102a",
+  "prompts": {},
+  "humans": {
+    "h_415c008e101ba5": {
+      "author": "changlu <939974883@qq.com>"
+    }
+  }
+}
